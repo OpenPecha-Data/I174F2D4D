@@ -1,0 +1,40 @@
+id: I174F2D4D
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:25:05.570242'
+last_modified: '2022-06-19T14:25:05.570252'
+parser: null
+source_metadata:
+  title: Hagiography of Bla ma Tshogs sgom rin po che (1210-1307); Lamdre Lobshe,
+    vol. ka, title no. 12, from the chronological biographies of the Lamdre lineage
+    masters
+  author: gnyags snying po rgyal mtshan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-16); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/189
+  bases:
+    2bd2:
+      title: Hagiography of Bla ma Tshogs sgom rin po che (1210-1307); Lamdre Lobshe,
+        vol. ka, title no. 12, from the chronological biographies of the Lamdre lineage
+        masters
+      order: 1
+      base_file: 2bd2.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
